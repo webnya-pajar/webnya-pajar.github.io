@@ -9,7 +9,7 @@ a {
 }
 .medsos	{
 	padding: 5px, 0;
-	background-color: #3ebb81;
+	background-color: #a23879;
 }
 .medsos ul li{
 	display: inline-block;
@@ -28,7 +28,7 @@ a {
 header h1 {
 float: left;
 padding: 15px 0;
-color:  #3ebb81 ;
+color:  #a23879;
 }
 header ul {
 	float: right;
@@ -41,11 +41,11 @@ header ul li a {
 	display: inline-block;
 }
 header ul li a:hover {
-	background-color:  #3ebb81;
+	background-color:  #a23879;
 	color: #fff;
 }
 .active {
-	background-color:  #3ebb81; 
+	background-color:   #a23879;
 	color: #fff
 	cursor: pointer;
 }
@@ -80,7 +80,7 @@ section {
 section h3 {
 	text-align: center;
 	padding: 20px 0;
-	color:   #3ebb81;
+	color:   #a23879;
 	margin-bottom: 20px;
 }
 .about,
@@ -98,7 +98,7 @@ section h3 {
 	background-color: #f9f9f9;
 }
 .box {
-	color:  #3ebb81; 
+	color:   #a23879;
 }
 .box:after {
 	content: '';
@@ -148,8 +148,8 @@ footer {
 	height: 100px;
 	border: 3px solid #fff;
 	border-radius: 50%;
-	border-top-color:  #3ebb81;
-	border-right-color:  #3ebb81;
+	border-top-color:  #a23879;
+	border-right-color:  #a23879;
 	border-bottom:  #3ebb81;
 	animation: puterin .5s linear infinite;
 }
